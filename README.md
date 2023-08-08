@@ -7,7 +7,7 @@
 <h2>A Few Quick Facts</h2>
 
 - I’m currently studying Software Testing course by [Vadim Ksendzov](https://www.linkedin.com/in/vadim-ksendzov-74099837?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbTYA0UovS%2BKIpfBwTBWjSQ%3D%3D)
-- Learning English, JavaScript and Python
+- Learning English and Python
 - Post my homework on GitHub
 - Random fact about me: I love cats
 
